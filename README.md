@@ -1,6 +1,4 @@
 
-Certainly! Here's the description with HTML tags for formatting:
-
 My Awesome Portfolio 🚀
 Hey there! Welcome to my portfolio site built with React. It's a one-stop-shop to learn all about me and what I do. Here’s what you’ll find:
 
