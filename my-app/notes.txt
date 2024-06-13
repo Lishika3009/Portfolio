@@ -1,0 +1,17 @@
+firstly create react app by--> npx create-react-app my-app
+updated folder sructure -->
+src -> app.js,index.js,index.css
+public -> index.html,favicon,manifest
+app.js --> import React from "react"; and import "./index.css";
+index.js --> import react router dom by import {BrowserRouter} from "react-router-dom"
+install react router dom by npm install react-router-dom
+install react icons by npm install react-icons
+now instead of recatstrictmode  -->BrowserRouter in index.js
+index.css consists of global css
+now create a routes folder in src which will include all the pages
+all pages in routes --> rafce --> shortcut for functional arrow component
+import all the route pages in app.js which is the main system
+import {Route,Routes} from'react-router-dom';
+for importing the icons --->
+import {FaBars} from "react-icons";
+
